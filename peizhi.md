@@ -6,7 +6,7 @@
 电脑配置
 ····bash
   git config --global user.name "用户名(sjt971110)"
-  git config --global user.name "邮箱"
+  git config --global user.email "邮箱"
 
 查看状态
 
